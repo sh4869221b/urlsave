@@ -18,5 +18,5 @@ package main
 import "github.com/sh4869221b/urlsave/cmd"
 
 func main() {
-  cmd.Execute()
+	cmd.Execute()
 }
